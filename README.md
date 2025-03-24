@@ -8,4 +8,4 @@
 ### clone tbis repo
 
 ```bash
-git clone [https://github.com/username/repository-name.git](https://github.com/brico12/EOSC454_term_project)
+git clone https://github.com/brico12/EOSC454_term_project
