@@ -1,10 +1,8 @@
 # EOSC454_term_project
 
-### the title
+## Project Description
 
-### a short description
-
-## installation instructions
+## Installation Instructions
 ### clone tbis repo
 
 ```bash
