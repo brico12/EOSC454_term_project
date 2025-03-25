@@ -1,20 +1,20 @@
 #  Straight Ray Tomography
-
-## Project Description
+$An Zhou EOSC454$
+### Project Description
 In this project, a straight ray tomography model is used for a simulated sythesis dataset.
 
-## Instructions
-### Install SimPEG
+### Instructions
+#### Install SimPEG
 ```bash
 conda install SimPEG --channel conda-forge
 ```
 
-### Clone this repo
+#### Clone this repo
 ```bash
 git clone https://github.com/brico12/EOSC454_term_project
 ```
 
-### Open JupyterLab
+#### Open JupyterLab
 ```bash
 jupyter lab
 ```
