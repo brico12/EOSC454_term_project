@@ -2,14 +2,21 @@
 
 ## Project Description
 
-## Installation Instructions
-### clone this repo
+## Instructions
+### install SimPEG
+run:
+```bash
+conda install SimPEG --channel conda-forge
+```
 
+### clone this repo
+run:
 ```bash
 git clone https://github.com/brico12/EOSC454_term_project
 ```
-### install SimPEG
 
+### open in JupyterLab
+run:
 ```bash
-conda install SimPEG --channel conda-forge
+jupyter lab
 ```
