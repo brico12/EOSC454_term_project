@@ -1,5 +1,5 @@
 #  Straight Ray Tomography
-An Zhou EOSC 454
+_An Zhou_
 ### Project Description
 In this project, a straight ray tomography model is used for a simulated sythesis dataset.
 
