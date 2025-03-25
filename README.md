@@ -1,5 +1,5 @@
 #  Straight Ray Tomography
-An Zhou
+An Zhou EOSC454 Mar 2025
 ### Project Description
 In this project, a straight ray tomography model is used for a simulated sythesis dataset.
 
