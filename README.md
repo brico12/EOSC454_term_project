@@ -15,7 +15,7 @@ git clone https://github.com/brico12/EOSC454_term_project
 conda env create -f environment.yml
 ```
 ```bash
-conda activate environment
+conda activate EOSC454_term_project
 ```
 
 #### Open JupyterLab
