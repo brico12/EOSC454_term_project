@@ -21,6 +21,8 @@ conda env create -f environment.yml
 ```
 ```bash
 conda activate EOSC454_term_project
+python -m ipykernel install --yourusername --name=EOSC454_term_project
+
 ```
 
 #### Open JupyterLab
