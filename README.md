@@ -5,9 +5,14 @@ In this project, a straight ray tomography model is used for a simulated sythesi
 
 ### Instructions
 
-#### Clone this repo
+#### Clone this repository
 ```bash
 git clone https://github.com/brico12/EOSC454_term_project
+```
+
+#### Go to repository file 
+```bash
+cd EOSC454_term_project
 ```
 
 #### Create project environment
