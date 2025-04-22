@@ -35,6 +35,7 @@ jupyter lab
 ### Reference
 Notes from Dr.Heagy on Canvas:
 https://github.com/lheagy/eosc-454/blob/main/lectures/tomography.ipynb
+
 Use of SimPEG:
 https://simpeg.xyz/user-tutorials/
 
