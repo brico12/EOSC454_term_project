@@ -3,6 +3,7 @@ _An Zhou_
 ### Project Description
 In this project, I built two Straight-Ray Tomography with Layered Earth and Dipping Layers Models respectively using synthesis datasets. 
 
+### Repository Structure
 The code file is contained in src folder. The two jupyter notebooks are corresponded to two different models used.
 
 ### Instructions
