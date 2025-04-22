@@ -1,7 +1,7 @@
 #  Straight-Ray Tomography with Layered Earth and Dipping Layers Models
 _An Zhou_
 ### Project Description
-In this project, I built two Straight-Ray Tomography with Layered Earth and Dipping Layers Models respectively using sythesis datasets. 
+In this project, I built two Straight-Ray Tomography with Layered Earth and Dipping Layers Models respectively using synthesis datasets. 
 
 
 ### Instructions
