@@ -1,7 +1,8 @@
 #  Straight Ray Tomography
 _An Zhou_
 ### Project Description
-In this project, a straight ray tomography model is used for a simulated sythesis dataset.
+In this project, I built two Straight-Ray Tomography with Layered Earth and Dipping Layers Models respectively using sythesis datasets. 
+
 
 ### Instructions
 
@@ -30,3 +31,10 @@ python -m ipykernel install --user --name=EOSC454_term_project
 ```bash
 jupyter lab
 ```
+
+### Reference
+Notes from Dr.Heagy on Canvas:
+https://github.com/lheagy/eosc-454/blob/main/lectures/tomography.ipynb
+Use of SimPEG:
+https://simpeg.xyz/user-tutorials/
+
