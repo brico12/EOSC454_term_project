@@ -1,7 +1,7 @@
 #  Straight-Ray Tomography with Layered Earth and Dipping Layers Models
 _An Zhou_
 ### Project Description
-In this project, I built two Straight-Ray Tomography with Layered Earth and Dipping Layers Models respectively using synthesis datasets. 
+In this project, I first simulated two sets of synthesis data by constructing two models (Layered Earth and Dipping Layers) in a 2D space. Then apply Tikhonov regularization to perform the inversion. 
 
 ### Repository Structure
 The code file is contained in src folder. The two jupyter notebooks are corresponded to two different models used.
