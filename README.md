@@ -1,7 +1,7 @@
 #  Straight-Ray Tomography with Layered Earth and Dipping Layers Models
 Author: _An Zhou_
 
-Instructor: _Dr Heagy_
+Instructor: _Dr.Heagy_
 ### Project Description
 In this project, I first simulated two sets of synthesis data by constructing two models (Layered Earth and Dipping Layers) in a 2D space. Then apply Linear Tikhonov inversion. 
 
